@@ -1,1 +1,31 @@
-
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="uft-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Flower</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  
+  <body>
+    <script src="script.js"></script>
+    <header>
+      <a href="#" class="logo">Flower</a>
+      <a href="#" class="account">管理者</a>
+    </header>
+    <div class="menu">
+        <a href="#" class="apps">Home</a>
+        <a href="#" class="apps">Tasks</a>
+        <a href="#" class="apps">Calendar</a>
+        <a href="#" class="apps">Diary</a>
+        <a href="#" class="apps">Note</a>
+        <a href="#" class="apps">Chat</a>
+    </div>
+    <main>
+    </main>
+    <footer>
+      
+      
+    </footer>
+  </body>
+</html>
